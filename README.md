@@ -2,9 +2,10 @@
 
 *Website to play drum kit sounds by cliking or key pressing.*
 
-What I learned:
-- How DOM works on Javascript
+What I learned using Javascript:
+- How DOM works
 - How to select elements from html documents using DOM
 - How to add classes and remove them by DOM
-- How to use *ddEventListener*
-- How to play sounds using Javascript
+- How to use **addEventListener** using *click* and *keypress* methods
+- How to play sounds using *Audio* constructor method
+- How to use *setTimout* method to wait functions
